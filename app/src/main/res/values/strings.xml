@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">User Profile</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="user_list_fragment_label">Users</string>
+    <string name="user_detail_fragment_label">User Detail</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="prompt_ok">OK</string>
+    <string name="prompt_cancel">Cancel</string>
+    <string name="label_action_failed">Oops. Something went wrong. Please try again later.</string>
+    <string name="label_response_process_error">Whoops! Error while parsing the response.</string>
+</resources>

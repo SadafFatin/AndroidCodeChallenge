@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="reply_blue_50">#F3F5F6</color>
+    <color name="reply_blue_200">#A7BAC6</color>
+    <color name="reply_blue_300">#6F8FA3</color>
+    <color name="reply_blue_500">#235785</color>
+    <color name="reply_blue_600">#2F587C</color>
+    <color name="reply_blue_700">#224D73</color>
+
+    <color name="reply_orange_400">#FDA424</color>
+    <color name="reply_orange_500">#F87F0F</color>
+
+    <color name="reply_red_400">#ff4c5d</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="placeHolder">#CED0DD</color>
+    <color name="placeHolderText">#BBC0DA</color>
+</resources>
